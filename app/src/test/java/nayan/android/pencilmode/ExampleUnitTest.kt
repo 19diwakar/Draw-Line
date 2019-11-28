@@ -1,4 +1,4 @@
-package nayan.c3_specialist.pencilmode
+package nayan.android.pencilmode
 
 import org.junit.Test
 

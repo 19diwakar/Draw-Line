@@ -1,4 +1,4 @@
-package nayan.c3_specialist.pencilmode
+package nayan.android.pencilmode
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

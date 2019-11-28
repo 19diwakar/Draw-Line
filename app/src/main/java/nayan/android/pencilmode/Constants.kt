@@ -1,4 +1,4 @@
-package nayan.c3_specialist.pencilmode
+package nayan.android.pencilmode
 
 object DrawType {
     const val LINE = "LINE"

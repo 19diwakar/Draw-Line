@@ -1,4 +1,4 @@
-package nayan.c3_specialist.pencilmode.utils
+package nayan.android.pencilmode.utils
 
 import android.view.View
 

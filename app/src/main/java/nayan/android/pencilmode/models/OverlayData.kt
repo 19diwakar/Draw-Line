@@ -1,7 +1,7 @@
-package nayan.c3_specialist.pencilmode.models
+package nayan.android.pencilmode.models
 
 import android.graphics.Paint
-import nayan.c3_specialist.pencilmode.DrawType
+import nayan.android.pencilmode.DrawType
 import java.util.*
 
 data class OverlayData(
