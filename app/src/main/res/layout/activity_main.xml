@@ -111,7 +111,7 @@
 
         />
 
-    <nayan.android.pencilmode.OverlayPhotoView
+    <nayan.android.drawline.OverlayPhotoView
         android:id="@+id/overlayPhotoView"
         android:layout_width="match_parent"
         android:layout_height="0dp"

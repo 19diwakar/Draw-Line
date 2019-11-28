@@ -1,4 +1,4 @@
-package nayan.android.pencilmode
+package nayan.android.drawline
 
 object DrawType {
     const val LINE = "LINE"

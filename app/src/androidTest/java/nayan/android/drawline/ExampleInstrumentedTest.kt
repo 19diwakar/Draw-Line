@@ -1,4 +1,4 @@
-package nayan.android.pencilmode
+package nayan.android.drawline
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package nayan.android.pencilmode
+package nayan.android.drawline
 
 interface OnOverlayDrawListener {
     fun touchPoints(x: Float, y: Float)

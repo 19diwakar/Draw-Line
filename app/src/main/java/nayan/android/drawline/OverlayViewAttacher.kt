@@ -1,4 +1,4 @@
-package nayan.android.pencilmode
+package nayan.android.drawline
 
 import android.annotation.SuppressLint
 import android.view.MotionEvent

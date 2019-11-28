@@ -1,10 +1,10 @@
-package nayan.android.pencilmode
+package nayan.android.drawline
 
 import android.content.Context
 import android.graphics.*
 import android.util.AttributeSet
 import androidx.core.content.ContextCompat
-import nayan.android.pencilmode.models.OverlayData
+import nayan.android.drawline.models.OverlayData
 import co.nayan.c3_specialist.models.OverlayDataOperation
 import com.github.chrisbanes.photoview.PhotoView
 import java.util.*

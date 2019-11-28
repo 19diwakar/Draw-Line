@@ -1,4 +1,4 @@
-package nayan.android.pencilmode.utils
+package nayan.android.drawline.utils
 
 import android.view.View
 

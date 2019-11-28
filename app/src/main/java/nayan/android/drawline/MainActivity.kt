@@ -1,4 +1,4 @@
-package nayan.android.pencilmode
+package nayan.android.drawline
 
 import android.graphics.Bitmap
 import android.os.Bundle
@@ -11,8 +11,8 @@ import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
-import nayan.android.pencilmode.utils.gone
-import nayan.android.pencilmode.utils.visible
+import nayan.android.drawline.utils.gone
+import nayan.android.drawline.utils.visible
 import timber.log.Timber
 import java.net.SocketException
 import java.util.concurrent.ExecutionException
