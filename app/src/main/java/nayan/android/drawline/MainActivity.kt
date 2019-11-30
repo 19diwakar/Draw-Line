@@ -129,7 +129,6 @@ class MainActivity : AppCompatActivity() {
                 overlayPhotoView.overlayViewAttacher.update()
             } catch (e: SocketException) {
                 Timber.d(e)
-
             } catch (e: ExecutionException) {
                 Timber.d(e)
             }

@@ -50,12 +50,6 @@ class OverlayViewAttacher(imageView: ImageView, listener: OnOverlayDrawListener)
                         }
                     }
                 }
-
-                2 -> {
-                    multiTouch = true
-                    onPencilDrawListener.discardStroke()
-                    super.onTouch(v, ev)
-                }
             }
         } else {
             super.onTouch(v, ev)

@@ -40,7 +40,7 @@ class OverlayPhotoView(context: Context, attrs: AttributeSet) : PhotoView(contex
     // Last UNDO operation
     private var lastUndoOperation: OverlayDataOperation? = null
 
-    private val onPencilDrawListener = object : OnOverlayDrawListener {
+    private val onLineDrawListener = object : OnOverlayDrawListener {
         override fun discardStroke() {
         }
 
@@ -123,7 +123,7 @@ class OverlayPhotoView(context: Context, attrs: AttributeSet) : PhotoView(contex
     }
 
     val overlayViewAttacher: OverlayViewAttacher =
-        OverlayViewAttacher(this, onPencilDrawListener)
+        OverlayViewAttacher(this, onLineDrawListener)
 
 
     private fun selectStroke() {
